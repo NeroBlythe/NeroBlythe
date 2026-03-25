@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Pokenyx19
-- 👀 I’m interested in coding discord bots
+- 👋 Hi, I’m @NeroBlythe or Donovan
+- 👀 I’m interested in creating my own website as well as my own virtual space via ue5, blender, and coding
 - 🌱 I’m currently learning basic coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram @omnisexual_guy
+- 📫 How to reach me....you don't
 
 <!---
 Pokenyx19/Pokenyx19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
